@@ -1,2 +1,2 @@
-# JAVA
+# JAVA OOPS
 JAVA Practice code
